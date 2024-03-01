@@ -11,3 +11,6 @@ In this assignment, you are expected to implement a hashing algorithm in Java to
 ![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/4109b3f0-c017-4204-bd12-fffb9b56e6c6)
 
 
+![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/d49459a5-686e-44ba-81d1-2c8bfa9fd84d)
+![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/7754dcaa-29dd-47d7-bc93-e00f42596593)
+
