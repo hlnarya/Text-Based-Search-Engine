@@ -14,3 +14,15 @@ In this assignment, you are expected to implement a hashing algorithm in Java to
 ![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/d49459a5-686e-44ba-81d1-2c8bfa9fd84d)
 ![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/7754dcaa-29dd-47d7-bc93-e00f42596593)
 
+![image](https://github.com/hlnarya/Text-Based-Search-Engine/assets/142156676/3da48e75-1668-4854-92a2-bc0eec72c61c)
+
+Provided Resources
+•	English stop-words lists (stop_words_en.txt)
+•	Delimiters to split document content (delimiters.txt)
+•	Documents to index: BBC news article datasets [1] (sport.rar) 
+•	Word list to use in calculation of searching times (search.txt)
+
+
+Note:
+Double Hashing Function: D2(key) = 31 – (key%31)
+Initial Table Size must be 2477
